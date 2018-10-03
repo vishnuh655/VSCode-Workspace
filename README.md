@@ -4,19 +4,19 @@ Extensions and workspace settings that I use for [Visual Studio Code](https://co
 
 ## EXTENSIONS
 
-1. Path Intellisense - Christian Kohler
-2. Bracket Pair Colorizer - CoenraadS
-3. ESLint - Dirk Baeumer
-4. ES7 React/Redux/GraphQL/React-Native snippets - dsznajder
-5. Prettier
-6. Live Server - Ritwick Dey
-7. Settings Sync - Shan Khan
-8. VS Code JavaScript (ES6) snippets - xabikos
+1. [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Christian Kohler
+2. [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) - CoenraadS
+3. [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Dirk Baeumer
+4. [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) - dsznajder
+5. [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+6. [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Ritwick Dey
+7. [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - Shan Khan
+8. [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) - charalampos karypidis
 
 ## THEMES
 
-1. Level Up Theme Official - leveluptutorials
-2. vscode-icons - Roberto Huertas
+1. [Level Up Theme Official](https://marketplace.visualstudio.com/items?itemName=leveluptutorials.theme-levelup) - leveluptutorials
+2. [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) - Roberto Huertas
 
 ## Installation
 
