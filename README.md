@@ -1,8 +1,8 @@
-# MY VSCODE WORKSPACE
+# My VSCode Workspace
 
 Extensions and workspace settings that I use for [Visual Studio Code](https://code.visualstudio.com/).
 
-## EXTENSIONS
+## Extensions
 
 1. [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Christian Kohler
 2. [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) - CoenraadS
@@ -13,7 +13,7 @@ Extensions and workspace settings that I use for [Visual Studio Code](https://co
 7. [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - Shan Khan
 8. [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) - charalampos karypidis
 
-## THEMES
+## Themes
 
 1. [Level Up Theme Official](https://marketplace.visualstudio.com/items?itemName=leveluptutorials.theme-levelup) - leveluptutorials
 2. [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) - Roberto Huertas
