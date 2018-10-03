@@ -25,4 +25,7 @@ Extensions and workspace settings that I use for [Visual Studio Code](https://co
 1. Install the extension [Settings Sync](https://marketplace.visualstudio.com/itemsitemName=Shan.code-settings-sync).
 2. Reload the editor.
 3. Press Shift + Alt + D and enter the Gist ID: 4f7a45498aa5f1152cde075b17b3e514
-   and You are Done! all the files are downloaded and the extensions will be installed in the background. You can also modify the settings and sync your settings with other machines using [Settings Sync](https://marketplace.visualstudio.com/itemsitemName=Shan.code-settings-sync).
+
+   and You are Done! all the files are downloaded and the extensions will be installed in the background. You can also modify the settings and sync your settings and extensions with other machines using [Settings Sync](https://marketplace.visualstudio.com/itemsitemName=Shan.code-settings-sync).
+
+[Gist](https://gist.github.com/vishnuh655/4f7a45498aa5f1152cde075b17b3e514)
